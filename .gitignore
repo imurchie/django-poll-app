@@ -2,3 +2,5 @@
 .DS_Store
 .git
 .project
+*.pyc
+__pycache__
